@@ -1,4 +1,0 @@
-USE HDLAO_POWERBI_TEST
-GO
-SELECT * FROM sysobjects
-GO
