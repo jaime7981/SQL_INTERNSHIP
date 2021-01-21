@@ -1,0 +1,1 @@
+Creacion y incorporacion de datos de un solo periodo al data warehouse para crear los primeros gráficos

@@ -1,0 +1,2 @@
+En la primera semana de enero me dedique a embeber el contenido de power bi (reortes) en una pagina web
+Luego la tarea fue crear reportes interesantes con los datos incorporados en el data warehouse
